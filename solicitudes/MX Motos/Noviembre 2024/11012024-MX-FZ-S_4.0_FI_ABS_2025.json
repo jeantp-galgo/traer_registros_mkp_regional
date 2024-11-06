@@ -1,0 +1,60 @@
+{
+    "Estado": "Pendiente",
+    "Nombre solicitante": "Juan Chip",
+    "Fecha solicitud": "11/1/2024",
+    "Tipo": "Nuevo producto comercial",
+    "Marca": "Yamaha",
+    "Modelo": "FZ-S 4.0 FI ABS 2025",
+    "Año": 2025.0,
+    "Variaciones": "Negro",
+    "Garantía": "Sin datos",
+    "Precio base": 63999.0,
+    "Descuento": "Sin datos",
+    "Precio neto": 63999,
+    "Notas": "Sin datos",
+    "Link carpeta Drive": "Sin datos",
+    "Link PDF ficha técnica": "Sin datos",
+    "Link web": "https://www.yamaha-motor.com.mx/fzsfi-v4-25.php",
+    "Link publicación": "Sin datos",
+    "Comentarios": "Falta datos de precio",
+    "Sin diseño": "Sin datos",
+    "datos_publicacion": {
+        "País": "MX",
+        "Titulo": "Yamaha FZ-S 4.0 FI ABS 2025",
+        "Subtitulo": "",
+        "Titulo SEO": "Yamaha FZ-S 4.0 FI ABS 2025 | Galgo México",
+        "Descripción SEO": "",
+        "Descripción": "",
+        "Precio": 63999,
+        "Moneda del precio": "MXN",
+        "Monto del descuento": 0,
+        "Tipo del descuento": "fixed",
+        "Moneda del crédito": "MXN",
+        "Número de cuotas sugeridas": 36,
+        "Valor de la cuota sugerida": 3746.31,
+        "Pie/inicial/enganche sugerido": 8793.46,
+        "Pie/inicial/enganche promoción": 1,
+        "CAE (o carga anual)": 74.6,
+        "Fotos Contenido": [],
+        "Variaciones": [
+            "Negro"
+        ],
+        "URL Canonical": "",
+        "Garantía": "Sin datos",
+        "Relevancia": 50
+    },
+    "datos_producto": {
+        "País": "MX",
+        "Marca": "",
+        "Modelo": "FZ-S 4-0 FI ABS 2025",
+        "Tipo": [],
+        "Año": 2025,
+        "Fotos": [],
+        "tabla_ficha_tecnica": "",
+        "Cilindrada": ""
+    },
+    "ficha_tecnica_ruta": {
+        "ruta_ficha_tecnica": "./solicitudes/",
+        "tipo": "Moto"
+    }
+}

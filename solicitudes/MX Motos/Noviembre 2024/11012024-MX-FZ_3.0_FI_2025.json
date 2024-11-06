@@ -1,0 +1,60 @@
+{
+    "Estado": "Pendiente",
+    "Nombre solicitante": "Juan Chip",
+    "Fecha solicitud": "11/1/2024",
+    "Tipo": "Nuevo producto comercial",
+    "Marca": "Yamaha",
+    "Modelo": "FZ 3.0 FI 2025",
+    "Año": 2025.0,
+    "Variaciones": "Rojo",
+    "Garantía": "Sin datos",
+    "Precio base": 58999.0,
+    "Descuento": "Sin datos",
+    "Precio neto": 58999,
+    "Notas": "Sin datos",
+    "Link carpeta Drive": "Sin datos",
+    "Link PDF ficha técnica": "Sin datos",
+    "Link web": "https://www.yamaha-motor.com.mx/fz-v3.php",
+    "Link publicación": "Sin datos",
+    "Comentarios": "Falta datos de precio",
+    "Sin diseño": "Sin datos",
+    "datos_publicacion": {
+        "País": "MX",
+        "Titulo": "Yamaha FZ 3.0 FI 2025",
+        "Subtitulo": "",
+        "Titulo SEO": "Yamaha FZ 3.0 FI 2025 | Galgo México",
+        "Descripción SEO": "",
+        "Descripción": "",
+        "Precio": 58999,
+        "Moneda del precio": "MXN",
+        "Monto del descuento": 0,
+        "Tipo del descuento": "fixed",
+        "Moneda del crédito": "MXN",
+        "Número de cuotas sugeridas": 36,
+        "Valor de la cuota sugerida": 3453.62,
+        "Pie/inicial/enganche sugerido": 8106.46,
+        "Pie/inicial/enganche promoción": 1,
+        "CAE (o carga anual)": 74.6,
+        "Fotos Contenido": [],
+        "Variaciones": [
+            "Rojo"
+        ],
+        "URL Canonical": "",
+        "Garantía": "Sin datos",
+        "Relevancia": 50
+    },
+    "datos_producto": {
+        "País": "MX",
+        "Marca": "",
+        "Modelo": "FZ 3-0 FI 2025",
+        "Tipo": [],
+        "Año": 2025,
+        "Fotos": [],
+        "tabla_ficha_tecnica": "",
+        "Cilindrada": ""
+    },
+    "ficha_tecnica_ruta": {
+        "ruta_ficha_tecnica": "./solicitudes/",
+        "tipo": "Moto"
+    }
+}
